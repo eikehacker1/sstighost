@@ -1,4 +1,4 @@
-# SSTIGHOST - An SSTI scanner developed in GOLANG.
+# SSTIGHOST - AN SSTI SCANNER DEVELOPED IN GOLANG.
 ![alt text](icons8-golang-48.png)
 
 [My Services And Contact](https://eikehacker1.github.io/eikeoliveira/)

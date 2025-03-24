@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"sstighost/ssti"
+	"github.com/eikehacker1/sstighost/ssti"
 )
 
 func main() {

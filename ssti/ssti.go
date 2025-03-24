@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"sstighost/config"
+	"github.com/eikehacker1/sstighost/config"
 )
 
 type SSTIPayload struct {

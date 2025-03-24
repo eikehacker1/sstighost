@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"sstighost/config"
-	"sstighost/fetch"
-	"sstighost/ssti"
+	"github.com/eikehacker1/sstighost/config"
+	"github.com/eikehacker1/sstighost/fetch"
+	"github.com/eikehacker1/sstighost/ssti"
 )
 
 var (

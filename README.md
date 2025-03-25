@@ -8,7 +8,7 @@
 
 ![ ](icons8-python.gif) ![alt text](icons8-linguagem-de-programação-ruby-48.png) ![alt text](icons8-js-48.png) ![alt text](icons8-php-64.png)
 
-## Use download to download the version compatible with your operating system.
+## Use Curl to download the version compatible with your operating system.
 
 ``` bash
 curl -L "https://raw.githubusercontent.com/eikehacker1/xssghost/build/sstighost_mac" -o "sstighost_mac" #MACOS intel-chip
